@@ -4,7 +4,7 @@ import 'package:payment/Features/check%20out/presentation/views/thank_view_body.
 
 class ThankView extends StatelessWidget {
   const ThankView({super.key});
-
+// GoodBye My friend
   @override
   Widget build(BuildContext context) {
     return Scaffold(
