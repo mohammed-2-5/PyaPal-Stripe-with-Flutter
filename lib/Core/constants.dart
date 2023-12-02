@@ -1,0 +1,5 @@
+const apiUrl='https://api.stripe.com/v1/payment_intents';
+const secretKey='sk_test_51MkRgBCHzVUJhEKNXbt16Zjbrh3bfkBcJPehmLOGmAXvO5DXa0728lnFF7lztb8welW3IYsMhb4rasv8DiaVDtHA00xghAsZ5o';
+const publishKey='pk_test_51MkRgBCHzVUJhEKNsJ1iw6IbPpY3xlwGRF8LLmXo2k9VZbdpGEOc3dDLCwgOC4KfIXq4pqbRiXLJXRBw29YVZXoR00uJwn4tJz';
+const paypalClientId='AZREhoblTZ3efnsyH0mJZwYyURf6N_MaK6q8Oi0OhnTJcRY4OoL8xaq9nudP22NCp3rF0fz6M9fBnVxH';
+const paypalSecretKey='EMdOkyqWu6g1L8et9mdGjc7kyLoktQrD5N-7_cBnDP74rxNxXOPQlWm8oK-vPmqqenjM6nYAONQtZdsf';
